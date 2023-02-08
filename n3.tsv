@@ -1,0 +1,244 @@
+n3	n3_description	n3_description_ENG
+A011	Cultivo de plantas no perennes	Growing of non-perennial crops
+A012	Cultivo de plantas perennes	Growing of perennial crops
+A013	Propagacion de plantas	Plant propagation
+A014	Ganaderia	Animal production
+A015	Cultivo de productos agricolas en combinacion con la cria de animales (explotacion mixta)	Mixed farming
+A016	Actividades de apoyo a la agricultura y la ganaderia y actividades poscosecha	Support activities to agriculture and post-harvest crop activities
+A017	Caza ordinaria y mediante trampas y actividades de servicios conexas	"Hunting, trapping and related service activities"
+A021	Silvicultura y otras actividades forestales	Silviculture and other forestry activities
+A022	Extraccion de madera	Logging
+A023	Recoleccion de productos forestales distintos de la madera	Gathering of non-wood forest products
+A024	Servicios de apoyo a la silvicultura	Support services to forestry
+A031	Pesca	Fishing
+A032	Acuicultura	Aquaculture
+B051	Extraccion de carbon de piedra	Mining of hard coal
+B052	Extraccion de lignito	Mining of lignite
+B061	Extraccion de petroleo crudo	Extraction of crude petroleum
+B062	Extraccion de gas natural	Extraction of natural gas
+B071	Extraccion de minerales de hierro	Mining of iron ores
+B072	Extraccion de minerales metaliferos no ferrosos	Mining of non-ferrous metal ores
+B081	"Extraccion de piedra, arena y arcilla"	"Quarrying of stone, sand and clay"
+B089	Explotacion de minas y canteras n.c.p.	Mining and quarrying n.e.c.
+B091	Actividades de apoyo para la extraccion de petroleo y gas natural	Support activities for petroleum and natural gas extraction
+B099	Actividades de apoyo para otras actividades de explotacion de minas y canteras	Support activities for other mining and quarrying
+C101	Elaboracion y conservacion de carne	Processing and preserving of meat
+C102	"Elaboracion y conservacion de pescado, crustaceos y moluscos"	"Processing and preserving of fish, crustaceans and molluscs"
+C103	"Elaboracion y conservacion de frutas, legumbres y hortalizas"	Processing and preserving of fruit and vegetables
+C104	Elaboracion de aceites y grasas de origen vegetal y animal	Manufacture of vegetable and animal oils and fats
+C105	Elaboracion de productos lacteos	Manufacture of dairy products
+C106	"Elaboracion de productos de molineria, almidones y productos derivados del almidon"	"Manufacture of grain mill products, starches and starch products"
+C107	Elaboracion de otros productos alimenticios	Manufacture of other food products
+C108	Elaboracion de piensos preparados para animales	Manufacture of prepared animal feeds
+C110	Elaboracion de bebidas	Manufacture of beverages
+C120	Elaboracion de productos de tabaco	Manufacture of tobacco products
+C131	"Hilatura, tejedura y acabado de productos textiles"	"Spinning, weaving and finishing of textiles"
+C139	Fabricacion de otros productos textiles	Manufacture of other textiles
+C141	"Fabricacion de prendas de vestir, excepto prendas de piel"	"Manufacture of wearing apparel, except fur apparel"
+C142	Fabricacion de articulos de piel	Manufacture of articles of fur
+C143	Fabricacion de articulos de punto y ganchillo	Manufacture of knitted and crocheted apparel
+C151	"Curtido y adobo de cueros; fabricacion de maletas, bolsos de mano y articulos de talabarteria y guarnicioneria; adobo y tenido de pieles"	"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur"
+C152	Fabricacion de calzado	Manufacture of footwear
+C161	Aserrado y acepilladura de madera	Sawmilling and planing of wood
+C162	"Fabricacion de productos de madera, corcho, paja y materiales trenzables"	"Manufacture of products of wood, cork, straw and plaiting materials"
+C170	Fabricacion de papel y de productos de papel	Manufacture of paper and paper products
+C181	Impresion y actividades de servicios relacionadas con la impresion	Printing and service activities related to printing
+C182	Reproduccion de grabaciones	Reproduction of recorded media
+C191	Fabricacion de productos de hornos de coque	Manufacture of coke oven products
+C192	Fabricacion de productos de la refinacion del petroleo	Manufacture of refined petroleum products
+C201	"Fabricacion de sustancias quimicas basicas, de abonos y compuestos de nitrogeno y de plasticos y caucho sintetico en formas primarias"	"Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+C202	Fabricacion de otros productos quimicos	Manufacture of other chemical products
+C203	Fabricacion de fibras artificiales	Manufacture of man-made fibres
+C210	"Fabricacion de productos farmaceuticos, sustancias quimicas medicinales y productos botanicos de uso farmaceutico"	"Manufacture of pharmaceuticals, medicinal chemical and botanical products"
+C221	Fabricacion de productos de caucho	Manufacture of rubber products
+C222	Fabricacion de productos de plastico	Manufacture of plastics products
+C231	Fabricacion de vidrio y productos de vidrio	Manufacture of glass and glass products
+C239	Fabricacion de productos minerales no metalicos n.c.p.	Manufacture of non-metallic mineral products n.e.c.
+C241	Industrias basicas de hierro y acero	Manufacture of basic iron and steel
+C242	Fabricacion de productos primarios de metales preciosos y otros metales no ferrosos	Manufacture of basic precious and other non-ferrous metals
+C243	Fundicion de metales	Casting of metals
+C251	"Fabricacion de productos metalicos para uso estructural, tanques, depositos y recipientes de metal"	"Manufacture of structural metal products, tanks, reservoirs and steam generators"
+C252	Fabricacion de armas y municiones	Manufacture of weapons and ammunition
+C259	Fabricacion de otros productos elaborados de metal; actividades de servicios de trabajo de metales	Manufacture of other fabricated metal products; metalworking service activities
+C261	Fabricacion de componentes y tableros electronicos	Manufacture of electronic components and boards
+C262	Fabricacion de ordenadores y equipo periferico	Manufacture of computers and peripheral equipment
+C263	Fabricacion de equipo de comunicaciones	Manufacture of communication equipment
+C264	Fabricacion de aparatos electronicos de consumo	Manufacture of consumer electronics
+C265	"Fabricacion de equipo de medicion, prueba, navegacion y control y de relojes"	"Manufacture of measuring, testing, navigating and control equipment; watches and clocks"
+C266	Fabricacion de equipo de irradiacion y equipo electronico de uso medico y terapeutico	"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+C267	Fabricacion de instrumentos opticos y equipo fotografico	Manufacture of optical instruments and photographic equipment
+C268	Fabricacion de soportes magneticos y opticos	Manufacture of magnetic and optical media
+C271	"Fabricacion de motores, generadores y transformadores electricos y aparatos de distribucion y control de la energia electrica"	"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+C272	"Fabricacion de pilas, baterias y acumuladores"	Manufacture of batteries and accumulators
+C273	Fabricacion de cables y dispositivos de cableado	Manufacture of wiring and wiring devices
+C274	Fabricacion de equipo electrico de iluminacion	Manufacture of electric lighting equipment
+C275	Fabricacion de aparatos de uso domestico	Manufacture of domestic appliances
+C279	Fabricacion de otros tipos de equipo electrico	Manufacture of other electrical equipment
+C281	Fabricacion de maquinaria de uso general	Manufacture of general-purpose machinery
+C282	Fabricacion de maquinaria de uso especial	Manufacture of special-purpose machinery
+C291	Fabricacion de vehiculos automotores	Manufacture of motor vehicles
+C292	Fabricacion de carrocerias para vehiculos automotores; fabricacion de remolques y semirremolques	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+C293	"Fabricacion de partes, piezas y accesorios para vehiculos automotores"	Manufacture of parts and accessories for motor vehicles
+C301	Construccion de buques y otras embarcaciones	Building of ships and boats
+C302	Fabricacion de locomotoras y material rodante	Manufacture of railway locomotives and rolling stock
+C303	"Fabricacion de aeronaves, naves espaciales y maquinaria conexa"	Manufacture of air and spacecraft and related machinery
+C304	Fabricacion de vehiculos militares de combate	Manufacture of military fighting vehicles
+C309	Fabricacion de equipo de transporte n.c.p.	Manufacture of transport equipment n.e.c.
+C310	Fabricacion de muebles	Manufacture of furniture
+C321	"Fabricacion de joyas, bisuteria y articulos conexos"	"Manufacture of jewellery, bijouterie and related articles"
+C322	Fabricacion de instrumentos de musica	Manufacture of musical instruments
+C323	Fabricacion de articulos de deporte	Manufacture of sports goods
+C324	Fabricacion de juegos y juguetes	Manufacture of games and toys
+C325	Fabricacion de instrumentos y materiales medicos y odontologicos	Manufacture of medical and dental instruments and supplies
+C329	Otras industrias manufactureras n.c.p.	Other manufacturing n.e.c.
+C331	"Reparacion de productos elaborados de metal, maquinaria y equipo"	"Repair of fabricated metal products, machinery and equipment"
+C332	Instalacion de maquinaria y equipo industriales	Installation of industrial machinery and equipment
+D351	"Generacion, transmision y distribucion de energia electrica"	"Electric power generation, transmission and distribution"
+D352	Fabricacion de gas; distribucion de combustibles gaseosos por tuberias	Manufacture of gas; distribution of gaseous fuels through mains
+D353	Suministro de vapor y de aire acondicionado	Steam and air conditioning supply
+E360	"Captacion, tratamiento y distribucion de agua"	"Water collection, treatment and supply"
+E370	Evacuacion de aguas residuales	Sewerage
+E381	Recogida de desechos	Waste collection
+E382	Tratamiento y eliminacion de desechos	Waste treatment and disposal
+E383	Recuperacion de materiales	Materials recovery
+E390	Actividades de descontaminacion y otros servicios de gestion de desechos	Remediation activities and other waste management services
+F410	Construccion de edificios	Construction of buildings
+F421	Construccion de carreteras y vias de ferrocarril	Construction of roads and railways
+F422	Construccion de proyectos de servicio publico	Construction of utility projects
+F429	Construccion de otras obras de ingenieria civil	Construction of other civil engineering projects
+F431	Demolicion y preparacion del terreno	Demolition and site preparation
+F432	Instalaciones electricas y de fontaneria y otras instalaciones para obras de construccion	"Electrical, plumbing and other construction installation activities"
+F433	Terminacion y acabado de edificios	Building completion and finishing
+F439	Otras actividades especializadas de construccion	Other specialized construction activities
+G451	Venta de vehiculos automotores	Sale of motor vehicles
+G452	Mantenimiento y reparacion de vehiculos automotores	Maintenance and repair of motor vehicles
+G453	"Venta de partes, piezas y accesorios para vehiculos automotores"	Sale of motor vehicle parts and accessories
+G454	"Venta, mantenimiento y reparacion de motocicletas y sus partes, piezas y accesorios"	"Sale, maintenance and repair of motorcycles and related parts and accessories"
+G461	Venta al por mayor a cambio de una retribucion o por contrata	Wholesale on a fee or contract basis
+G462	Venta al por mayor de materias primas agropecuarias y animales vivos	Wholesale of agricultural raw materials and live animals
+G463	"Venta al por mayor de alimentos, bebidas y tabaco"	"Wholesale of food, beverages and tobacco"
+G464	Venta al por mayor de enseres domesticos	Wholesale of household goods
+G465	"Venta al por mayor de maquinaria, equipo y materiales"	"Wholesale of machinery, equipment and supplies"
+G466	Otras actividades de venta al por mayor especializada	Other specialized wholesale
+G469	Venta al por mayor no especializada	Non-specialized wholesale trade
+G471	Venta al por menor en comercios no especializados	Retail sale in non-specialized stores
+G472	"Venta al por menor de alimentos, bebidas y tabaco en comercios especializados"	"Retail sale of food, beverages and tobacco in specialized stores"
+G473	Venta al por menor de combustibles para vehiculos automotores en comercios especializados	Retail sale of automotive fuel in specialized stores
+G474	Venta al por menor de equipo de informacion y de comunicaciones en comercios especializados	Retail sale of information and communications equipment in specialized stores
+G475	Venta al por menor de otros enseres domesticos en comercios especializados	Retail sale of other household equipment in specialized stores
+G476	Venta al por menor de productos culturales y recreativos en comercios especializados	Retail sale of cultural and recreation goods in specialized stores
+G477	Venta al por menor de otros productos en comercios especializados	Retail sale of other goods in specialized stores
+G478	Venta al por menor en puestos de venta y mercados	Retail sale via stalls and markets
+G479	"Venta al por menor no realizada en comercios, puestos de venta o mercados"	"Retail trade not in stores, stalls or markets"
+H491	Transporte por ferrocarril	Transport via railways
+H492	Otras actividades de transporte por via terrestre	Other land transport
+H493	Transporte por tuberias	Transport via pipeline
+H501	Transporte maritimo y de cabotaje	Sea and coastal water transport
+H502	Transporte por vias de navegacion interiores	Inland water transport
+H511	Transporte de pasajeros por via aerea	Passenger air transport
+H512	Transporte de carga por via aerea	Freight air transport
+H521	Almacenamiento y deposito	Warehousing and storage
+H522	Actividades de apoyo al transporte	Support activities for transportation
+H531	Actividades postales	Postal activities
+H532	Actividades de mensajeria	Courier activities
+I551	Actividades de alojamiento para estancias cortas	Short term accommodation activities
+I552	"Actividades de campamentos, parques de vehiculos recreativos y parques de caravanas"	"Camping grounds, recreational vehicle parks and trailer parks"
+I559	Otras actividades de alojamiento	Other accommodation
+I561	Actividades de restaurantes y de servicio movil de comidas	Restaurants and mobile food service activities
+I562	Suministro de comidas por encargo y otras actividades de servicio de comidas	Event catering and other food service activities
+I563	Actividades de servicio de bebidas	Beverage serving activities
+J581	Edicion de libros y publicaciones periodicas y otras actividades de edicion	"Publishing of books, periodicals and other publishing activities"
+J582	Edicion de programas informaticos	Software publishing
+J591	"Actividades de produccion de peliculas cinematograficas, videos y programas de television"	"Motion picture, video and television programme activities"
+J592	Actividades de grabacion de sonido y edicion de musica	Sound recording and music publishing activities
+J601	Transmisiones de radio	Radio broadcasting
+J602	Programacion y transmisiones de television	Television programming and broadcasting activities
+J611	Actividades de telecomunicaciones alambricas	Wired telecommunications activities
+J612	Actividades de telecomunicaciones inalambricas	Wireless telecommunications activities
+J613	Actividades de telecomunicaciones por satelite	Satellite telecommunications activities
+J619	Otras actividades de telecomunicaciones	Other telecommunications activities
+J620	"Programacion informatica, consultoria de informatica y actividades conexas"	"Computer programming, consultancy and related activities"
+J631	"Procesamiento de datos, hospedaje y actividades conexas; portales web"	"Data processing, hosting and related activities; web portals"
+J639	Otras actividades de servicios de informacion	Other information service activities
+K641	Intermediacion monetaria	Monetary intermediation
+K642	Actividades de sociedades de cartera	Activities of holding companies
+K643	Fondos y sociedades de inversion y entidades financieras similares	"Trusts, funds and similar financial entities"
+K649	"Otras actividades de servicios financieros, excepto las de seguros y fondos de pensiones"	"Other financial service activities, except insurance and pension funding activities"
+K651	Seguros	Insurance
+K652	Reaseguros	Reinsurance
+K653	Fondos de pensiones	Pension funding
+K661	"Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y fondos de pensiones"	"Activities auxiliary to financial service activities, except insurance and pension funding"
+K662	Actividades auxiliares de las actividades de seguros y fondos de pensiones	Activities auxiliary to insurance and pension funding
+K663	Actividades de gestion de fondos	Fund management activities
+L681	Actividades inmobiliarias realizadas con bienes propios o arrendados	Real estate activities with own or leased property
+L682	Actividades inmobiliarias realizadas a cambio de una retribucion o por contrata	Real estate activities on a fee or contract basis
+M691	Actividades juridicas	Legal activities
+M692	"Actividades de contabilidad, teneduria de libros y auditoria; consultoria fiscal"	"Accounting, bookkeeping and auditing activities; tax consultancy"
+M701	Actividades de oficinas principales	Activities of head offices
+M702	Actividades de consultoria de gestion	Management consultancy activities
+M711	Actividades de arquitectura e ingenieria y actividades conexas de consultoria tecnica	Architectural and engineering activities and related technical consultancy
+M712	Ensayos y analisis tecnicos	Technical testing and analysis
+M721	Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingenieria	Research and experimental development on natural sciences and engineering
+M722	Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades	Research and experimental development on social sciences and humanities
+M731	Publicidad	Advertising
+M732	Estudios de mercado y encuestas de opinion publica	Market research and public opinion polling
+M741	Actividades especializadas de diseno	Specialized design activities
+M742	Actividades de fotografia	Photographic activities
+M749	"Otras actividades profesionales, cientificas y tecnicas n.c.p."	"Other professional, scientific and technical activities n.e.c."
+M750	Actividades veterinarias	Veterinary activities
+N771	Alquiler y arrendamiento de vehiculos automotores	Renting and leasing of motor vehicles
+N772	Alquiler y arrendamiento de efectos personales y enseres domesticos	Renting and leasing of personal and household goods
+N773	"Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles"	"Renting and leasing of other machinery, equipment and tangible goods"
+N774	"Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor"	"Leasing of intellectual property and similar products, except copyrighted works"
+N781	Actividades de agencias de empleo	Activities of employment placement agencies
+N782	Actividades de agencias de empleo temporal	Temporary employment agency activities
+N783	Otras actividades de dotacion de recursos humanos	Other human resources provision
+N791	Actividades de agencias de viajes y operadores turisticos	Travel agency and tour operator activities
+N799	Otros servicios de reservas y actividades conexas	Other reservation service and related activities
+N801	Actividades de seguridad privada	Private security activities
+N802	Actividades de servicios de sistemas de seguridad	Security systems service activities
+N803	Actividades de investigacion	Investigation activities
+N811	Actividades combinadas de apoyo a instalaciones	Combined facilities support activities
+N812	Actividades de limpieza	Cleaning activities
+N813	Actividades de paisajismo y servicios de mantenimiento conexos	Landscape care and maintenance service activities
+N821	Actividades administrativas y de apoyo de oficina	Office administrative and support activities
+N822	Actividades de centros de llamadas	Activities of call centres
+N823	Organizacion de convenciones y exposiciones comerciales	Organization of conventions and trade shows
+N829	Actividades de servicios de apoyo a las empresas n.c.p.	Business support service activities n.e.c.
+O841	Administracion del Estado y aplicacion de la politica economica y social de la comunidad	Administration of the State and the economic and social policy of the community
+O842	Prestacion de servicios a la comunidad en general	Provision of services to the community as a whole
+O843	Actividades de planes de seguridad social de afiliacion obligatoria	Compulsory social security activities
+P851	Ensenanza preescolar y primaria	Pre-primary and primary education
+P852	Ensenanza secundaria	Secondary education
+P853	Ensenanza superior	Higher education
+P854	Otros tipos de ensenanza	Other education
+P855	Actividades de apoyo a la ensenanza	Educational support activities
+Q861	Actividades de hospitales	Hospital activities
+Q862	Actividades de medicos y odontologos	Medical and dental practice activities
+Q869	Otras actividades de atencion de la salud humana	Other human health activities
+Q871	Actividades de atencion de enfermeria en instituciones	Residential nursing care facilities
+Q872	"Actividades de atencion en instituciones para personas con retraso mental, enfermos mentales y toxicomanos"	"Residential care activities for mental retardation, mental health and substance abuse"
+Q873	Actividades de atencion en instituciones para personas de edad y personas con discapacidad	Residential care activities for the elderly and disabled
+Q879	Otras actividades de atencion en instituciones	Other residential care activities
+Q881	Actividades de asistencia social sin alojamiento para personas de edad y personas con discapacidad	Social work activities without accommodation for the elderly and disabled
+Q889	Otras actividades de asistencia social sin alojamiento	Other social work activities without accommodation
+R900	"Actividades creativas, artisticas y de entretenimiento"	"Creative, arts and entertainment activities"
+R910	"Actividades de bibliotecas, archivos y museos y otras actividades culturales"	"Libraries, archives, museums and other cultural activities"
+R920	Actividades de juegos de azar y apuestas	Gambling and betting activities
+R931	Actividades deportivas	Sports activities
+R932	Otras actividades de esparcimiento y recreativas	Other amusement and recreation activities
+S941	"Actividades de asociaciones empresariales, profesionales y de empleadores"	"Activities of business, employers and professional membership organizations"
+S942	Actividades de sindicatos	Activities of trade unions
+S949	Actividades de otras asociaciones	Activities of other membership organizations
+S951	Reparacion de ordenadores y equipo de comunicaciones	Repair of computers and communication equipment
+S952	Reparacion de efectos personales y enseres domesticos	Repair of personal and household goods
+S960	Otras actividades de servicios personales	Other personal service activities
+T970	Actividades de los hogares como empleadores de personal domestico	Activities of households as employers of domestic personnel
+T981	Actividades no diferenciadas de los hogares como productores de bienes para uso propio	Undifferentiated goods-producing activities of private households for own use
+T982	Actividades no diferenciadas de los hogares como productores de servicios para uso propio	Undifferentiated service-producing activities of private households for own use
+U990	Actividades de organizaciones y organos extraterritoriales	Activities of extraterritorial organizations and bodies
+V030	Sin actividad economica - ciiu	No economic activity - ISIC
+W200	Bajo relacion de dependencia sector privado	As a dependent private sector
+X250	Bajo relacion de dependencia sector publico	As a dependent public sector
+Y999	Verificar	To Verify
+Z999 	Desconocido	Unknown

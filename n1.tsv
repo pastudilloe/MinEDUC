@@ -1,0 +1,27 @@
+n1	n1_description	n1_description_ENG
+A	"Agricultura, ganaderia, silvicultura y pesca"	"Agriculture, forestry and fishing"
+B	Explotacion de minas y canteras	Mining and quarrying
+C	Industrias manufactureras	Manufacturing
+D	"Suministro de electricidad, gas, vapor y aire acondicionado"	"Electricity, gas, steam and air conditioning supply"
+E	"Suministro de agua; evacuacion de aguas residuales, gestion de desechos y descontaminacion"	"Water supply; sewerage, waste management and remediation activities"
+F	Construccion	Construction
+G	Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas	Wholesale and retail trade; repair of motor vehicles and motorcycles
+H	Transporte y almacenamiento	Transportation and storage
+I	Actividades de alojamiento y de servicio de comidas	Accommodation and food service activities
+J	Informacion y comunicaciones	Information and communication
+K	Actividades financieras y de seguros	Financial and insurance activities
+L	Actividades inmobiliarias	Real estate activities
+M	"Actividades profesionales, cientificas y tecnicas"	"Professional, scientific and technical activities"
+N	Actividades de servicios administrativos y de apoyo	Administrative and support service activities
+O	Administracion publica y defensa; planes de seguridad social de afiliacion obligatoria	Public administration and defence; compulsory social security
+P	Ensenanza	Education
+Q	Actividades de atencion de la salud humana y de asistencia social	Human health and social work activities
+R	"Actividades artisticas, de entretenimiento y recreativas"	"Arts, entertainment and recreation"
+S	Otras actividades de servicios	Other service activities
+T	Actividades de los hogares como empleadores; actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio	Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+U	Actividades de organizaciones y organos extraterritoriales	Activities of extraterritorial organizations and bodies
+V	Sin actividad economica - ciiu	No economic activity - ISIC
+W	Bajo relacion de dependencia sector privado	As a dependent private sector
+X	Bajo relacion de dependencia sector publico	As a dependent public sector
+Y	Verificar	To Verify
+Z	Desconocido	Unknown

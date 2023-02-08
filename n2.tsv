@@ -1,0 +1,94 @@
+n2	n2_description	n2_description_ENG
+A01	"Agricultura, ganaderia, caza y actividades de servicios conexas"	"Crop and animal production, hunting and related service activities"
+A02	Silvicultura y extraccion de madera	Forestry and logging
+A03	Pesca y acuicultura	Fishing and aquaculture
+B05	Extraccion de carbon de piedra y lignito	Mining of coal and lignite
+B06	Extraccion de petroleo crudo y gas natural	Extraction of crude petroleum and natural gas
+B07	Extraccion de minerales metaliferos	Mining of metal ores
+B08	Explotacion de otras minas y canteras	Other mining and quarrying
+B09	Actividades de servicios de apoyo para la explotacion de minas y canteras	Mining support service activities
+C10	Elaboracion de productos alimenticios	Manufacture of food products
+C11	Elaboracion de bebidas	Manufacture of beverages
+C12	Elaboracion de productos de tabaco	Manufacture of tobacco products
+C13	Fabricacion de productos textiles	Manufacture of textiles
+C14	Fabricacion de prendas de vestir	Manufacture of wearing apparel
+C15	Fabricacion de productos de cuero y productos conexos	Manufacture of leather and related products
+C16	"Produccion de madera y fabricacion de productos de madera y corcho, excepto muebles; fabricacion de articulos de paja y de materiales trenzables"	"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+C17	Fabricacion de papel y de productos de papel	Manufacture of paper and paper products
+C18	Impresion y reproduccion de grabaciones	Printing and reproduction of recorded media
+C19	Fabricacion de coque y productos de la refinacion del petroleo	Manufacture of coke and refined petroleum products
+C20	Fabricacion de sustancias y productos quimicos	Manufacture of chemicals and chemical products
+C21	"Fabricacion de productos farmaceuticos, sustancias quimicas medicinales y productos botanicos de uso farmaceutico"	Manufacture of basic pharmaceutical products and pharmaceutical preparations
+C22	Fabricacion de productos de caucho y de plastico	Manufacture of rubber and plastics products
+C23	Fabricacion de otros productos minerales no metalicos	Manufacture of other non-metallic mineral products
+C24	Fabricacion de metales comunes	Manufacture of basic metals
+C25	"Fabricacion de productos elaborados de metal, excepto maquinaria y equipo"	"Manufacture of fabricated metal products, except machinery and equipment"
+C26	"Fabricacion de productos de informatica, de electronica y de optica"	"Manufacture of computer, electronic and optical products"
+C27	Fabricacion de equipo electrico	Manufacture of electrical equipment
+C28	Fabricacion de maquinaria y equipo n.c.p.	Manufacture of machinery and equipment n.e.c.
+C29	"Fabricacion de vehiculos automotores, remolques y semirremolques"	"Manufacture of motor vehicles, trailers and semi-trailers"
+C30	Fabricacion de otro equipo de transporte	Manufacture of other transport equipment
+C31	Fabricacion de muebles	Manufacture of furniture
+C32	Otras industrias manufactureras	Other manufacturing
+C33	Reparacion e instalacion de maquinaria y equipo	Repair and installation of machinery and equipment
+D35	"Suministro de electricidad, gas, vapor y aire acondicionado"	"Electricity, gas, steam and air conditioning supply"
+E36	"Captacion, tratamiento y distribucion de agua"	"Water collection, treatment and supply"
+E37	Evacuacion de aguas residuales	Sewerage
+E38	"Recogida, tratamiento y eliminacion de desechos; recuperacion de materiales"	"Waste collection, treatment and disposal activities; materials recovery"
+E39	Actividades de descontaminacion y otros servicios de gestion de desechos	Remediation activities and other waste management services
+F41	Construccion de edificios	Construction of buildings
+F42	Obras de ingenieria civil	Civil engineering
+F43	Actividades especializadas de construccion	Specialized construction activities
+G45	Comercio al por mayor y al por menor y reparacion de vehiculos automotores y motocicletas	Wholesale and retail trade and repair of motor vehicles and motorcycles
+G46	"Comercio al por mayor, excepto el de vehiculos automotores y motocicletas"	"Wholesale trade, except of motor vehicles and motorcycles"
+G47	"Comercio al por menor, excepto el de vehiculos automotores y motocicletas"	"Retail trade, except of motor vehicles and motorcycles"
+H49	Transporte por via terrestre y transporte por tuberias	Land transport and transport via pipelines
+H50	Transporte por via acuatica	Water transport
+H51	Transporte por via aerea	Air transport
+H52	Almacenamiento y actividades de apoyo al transporte	Warehousing and support activities for transportation
+H53	Actividades postales y de mensajeria	Postal and courier activities
+I55	Actividades de alojamiento	Accommodation
+I56	Actividades de servicio de comidas y bebidas	Food and beverage service activities
+J58	Actividades de edicion	Publishing activities
+J59	"Actividades de produccion de peliculas cinematograficas, videos y programas de television, grabacion de sonido y edicion de musica"	"Motion picture, video and television programme production, sound recording and music publishing activities"
+J60	Actividades de programacion y transmision	Programming and broadcasting activities
+J61	Telecomunicaciones	Telecommunications
+J62	"Programacion informatica, consultoria de informatica y actividades conexas"	"Computer programming, consultancy and related activities"
+J63	Actividades de servicios de informacion	Information service activities
+K64	"Actividades de servicios financieros, excepto las de seguros y fondos de pensiones"	"Financial service activities, except insurance and pension funding"
+K65	"Seguros, reaseguros y fondos de pensiones, excepto planes de seguridad social de afiliacion obligatoria"	"Insurance, reinsurance and pension funding, except compulsory social security"
+K66	Actividades auxiliares de las actividades de servicios financieros	Activities auxiliary to financial service and insurance activities
+L68	Actividades inmobiliarias	Real estate activities
+M69	Actividades juridicas y de contabilidad	Legal and accounting activities
+M70	Actividades de oficinas principales; actividades de consultoria de gestion	Activities of head offices; management consultancy activities
+M71	Actividades de arquitectura e ingenieria; ensayos y analisis tecnicos	Architectural and engineering activities; technical testing and analysis
+M72	Investigacion cientifica y desarrollo	Scientific research and development
+M73	Publicidad y estudios de mercado	Advertising and market research
+M74	"Otras actividades profesionales, cientificas y tecnicas"	"Other professional, scientific and technical activities"
+M75	Actividades veterinarias	Veterinary activities
+N77	Actividades de alquiler y arrendamiento	Rental and leasing activities
+N78	Actividades de empleo	Employment activities
+N79	Actividades de agencias de viajes y operadores turisticos y servicios de reservas y actividades conexas	"Travel agency, tour operator, reservation service and related activities"
+N80	Actividades de seguridad e investigacion	Security and investigation activities
+N81	Actividades de servicios a edificios y de paisajismo	Services to buildings and landscape activities
+N82	Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas	"Office administrative, office support and other business support activities"
+O84	Administracion publica y defensa; planes de seguridad social de afiliacion obligatoria	Public administration and defence; compulsory social security
+P85	Ensenanza	Education
+Q86	Actividades de atencion de la salud humana	Human health activities
+Q87	Actividades de atencion en instituciones	Residential care activities
+Q88	Actividades de asistencia social sin alojamiento	Social work activities without accommodation
+R90	"Actividades creativas, artisticas y de entretenimiento"	"Creative, arts and entertainment activities"
+R91	"Actividades de bibliotecas, archivos y museos y otras actividades culturales"	"Libraries, archives, museums and other cultural activities"
+R92	Actividades de juegos de azar y apuestas	Gambling and betting activities
+R93	"Actividades deportivas, de esparcimiento y recreativas"	Sports activities and amusement and recreation activities
+S94	Actividades de asociaciones	Activities of membership organizations
+S95	Reparacion de ordenadores y de efectos personales y enseres domesticos	Repair of computers and personal and household goods
+S96	Otras actividades de servicios personales	Other personal service activities
+T97	Actividades de los hogares como empleadores de personal domestico	Activities of households as employers of domestic personnel
+T98	Actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio	Undifferentiated goods- and services-producing activities of private households for own use
+U99	Actividades de organizaciones y organos extraterritoriales	Activities of extraterritorial organizations and bodies
+V03	Sin actividad economica - ciiu	No economic activity - ISIC
+W20	Bajo relacion de dependencia sector privado	As a dependent private sector
+X25	Bajo relacion de dependencia sector publico	As a dependent public sector
+Y99 Verificar		To Verify
+Z99 Desconocido		Unknown

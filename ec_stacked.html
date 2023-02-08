@@ -1,0 +1,126 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<head>
+   <title>Ecuador's Economic Activities</title>
+   <!-- <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"> -->
+</head>
+
+<!-- <script src="http://d3plus.org/js/d3.js"></script>
+<script src="http://d3plus.org/js/d3plus.js"></script>
+<script src="http://d3plus.org/js/topojson.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script> -->
+
+<script src="./DATAEC/js/d3.js"></script>
+<script src="./DATAEC/js/d3plus.js"></script>
+<script src="./DATAEC/js/topojson.js"></script>
+<script src="./DATAEC/js/d3.v3.min.js"></script>
+<script src="./DATAEC/js/queue.v1.min.js"></script>
+<script src="./DATAEC/js/topojson.v1.min.js"></script>
+<script src="./DATAEC/js/d3.tip.v0.6.3.js"></script>
+
+<style>
+
+body {
+  margin: 1px; padding:2%;
+}
+
+</style>
+
+<body>
+
+<div class="page">
+  <div id="viz-container">
+    <div class="single_viz" id="stacked">
+      <!-- <div class="text">
+        Transacciones por Industria
+        <p>Write any text here </p>
+      </div> -->
+      <div class="chart" id="svg_stacked"></div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+// instantiate our D3plus viz object
+var viz = d3plus.viz()
+// here we get all the data we need from the server, firt the raw data, then
+// each of the attribute files
+
+d3.tsv("./DATAEC/n4.tsv", function(error6,n4x) {
+  if (error6) return console.error(error6);
+  console.log(n4x);
+
+  d3.tsv("./DATAEC/n3.tsv", function(error5,n3x) {
+    if (error5) return console.error(error5);
+    console.log(n3x);
+
+    d3.tsv("./DATAEC/n2.tsv", function(error4, n2x) {
+      if (error4) return console.error(error4);
+      console.log(n2x);
+
+      d3.tsv("./DATAEC/n1.tsv", function(error3, n1x) {
+        if (error3) return console.error(error3);
+        console.log(n1x);
+
+        d3.tsv("./DATAEC/cities.tsv", function(error2, cities) {
+          if (error2) return console.error(error2);
+          console.log(cities);
+
+            d3.tsv("./DATAEC/provinces.tsv", function(error1, provinces) {
+              if (error1) return console.error(error1);
+              console.log(provinces);
+
+              d3.tsv("./DATAEC/ecu_total.tsv", function(error, ecuador) {
+                if (error) return console.error(error);
+                console.log(ecuador);
+                // Coerce data values to be numeric
+                ecuador.forEach(function(d) {
+                  d.Empresas = +d.Empresas
+                  d.Transacciones = +d.Transacciones;
+                });
+                console.log(ecuador);
+                // console.log(ecuador);
+
+                // set up attributes look up dictionary
+                var attrs = {"code_province": provinces, "code_city": cities, "n1": n1x, "n2": n2x, "n3": n3x, "n4": n4x}
+                console.log(attrs);
+
+                // set attributes on our viz object
+                var visualization = d3plus.viz()
+                .container("#svg_stacked")
+                .messages({"branding":true})
+                .data(ecuador)
+                .attrs(attrs)
+                .type("stacked")
+                .id(["code_province","code_city","n1","n2","n3","n4"])
+                .text({"code_province":"province","code_city":"city","n1":"n1_description","n2":"n2_description","n3":"n3_description","n4":"n4_description"})
+                .y("Transacciones")
+                .x("year")
+                .depth(0)
+                // .tooltip({"artist_id":["names"],"album_id":["name"],"song_id":["song_title"]})
+                .time("year")
+                .time({fixed: false})
+                .shape({"interpolate":"monotone"})
+                .ui([
+                      {
+                        "method" : "y",
+                        "value"  : [ "Transacciones" , "Empresas" ],
+                      }
+                    ])
+                .draw()
+
+              })
+            })
+          })
+        })
+      })
+    })
+  })
+</script>
+
+</body>
